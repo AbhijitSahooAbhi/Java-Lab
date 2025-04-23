@@ -10,3 +10,16 @@ This repository contains a curated collection of traditional Java programs desig
 - Modular design adhering to best practices in Java development.
 
 - Ideal for: Students, developers, and anyone looking to revisit or strengthen their Java basics.
+
+# How Run Java Program
+**Download File in your local system & goto cmd or terminal**
+- For compile to Java File
+  ` javac FileName.java`
+- For Run or Execution
+  `java ClassName`
+- To compile Package Program
+  `javac -d . FileName.java`
+  or
+  `javac PackageName/FileName.java`
+- To run/Execute Package Program
+  `java PackageName.classFileName`
